@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">守护者网络扫描</string>
+    <string name="nav_scan">扫描</string>
+    <string name="nav_security">安全评估</string>
+    <string name="nav_privacy">隐私探测</string>
+    <string name="nav_bluetooth">蓝牙监测</string>
+    <string name="nav_tools">工具箱</string>
+    <string name="nav_settings">设置</string>
+    <string name="action_start_scan">开始扫描</string>
+    <string name="label_no_devices">尚未检测到设备</string>
+    <string name="label_network_health">网络健康概览</string>
+    <string name="label_privacy_tools">隐私威胁检测</string>
+    <string name="label_bluetooth_monitoring">附近蓝牙监测</string>
+    <string name="label_toolbox">专业工具箱</string>
+    <string name="label_settings">用户偏好</string>
+</resources>
